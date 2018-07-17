@@ -1,0 +1,20 @@
+h1 {
+  color : #45597F;
+  font-family: 'Raleway', sans-serif;
+  text-align : center;
+}
+h2 {
+  color : #69717F;
+  font-family: 'Raleway', sans-serif;
+  text-align : center;
+}
+body {
+  background: linear-gradient(to right, lightblue , white);
+  color : #9A90FF;
+  font-family: 'Open Sans', sans-serif;
+  text-align : center;
+}
+img {
+    border-radius: 2px;
+    width: 500px;
+}
